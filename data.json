@@ -1,0 +1,20 @@
+{
+  "communities": {},
+  "settings": {
+    "promotion_enabled": true,
+    "rotation_enabled": true,
+    "promotion_interval": 3600,
+    "links_per_post": 5,
+    "welcome_enabled": true,
+    "welcome_text": "━━━━━━━━━━━━━━━━━━\n      🔞 𝐀𝐃𝐔𝐋𝐓 𝐍𝐄𝐓𝐖𝐎𝐑𝐊\n━━━━━━━━━━━━━━━━━━\n\n🔥 𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐈𝐄𝐒\n\n18+ ONLY • PRIVATE NETWORK"
+  },
+  "stats": {
+    "promotions": 0,
+    "promotion_failures": 0,
+    "join_requests": 0,
+    "approved_requests": 0
+  },
+  "rotation": {
+    "last_ids": []
+  }
+}
